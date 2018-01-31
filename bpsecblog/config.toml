@@ -1,4 +1,4 @@
-baseurl = "https://github.com/cong0828/cong0828.github.io"
+baseurl = "cong0828.github.io"
 title = "Universal"
 theme = "hugo-universal-theme"
 themesDir = "../.."
