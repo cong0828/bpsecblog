@@ -1,0 +1,14 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+#content .container .row .col-md-12 img{
+	border: 1px solid red;
+}
